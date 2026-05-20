@@ -4,7 +4,7 @@
 
 This project presents a comprehensive analysis of the global video game industry using data visualization and exploratory data analysis techniques. The study investigates how platform choice, genre preferences, regional behavior, and publisher strategies influence the commercial success of video games.
 
-The analysis is based on the VGChartz Global Video Game Sales dataset and was conducted as part of the DS612 — Interactive Data Visualization course.
+The analysis is based on the VGChartz Global Video Game Sales dataset.
 
 ---
 
