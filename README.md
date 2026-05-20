@@ -86,3 +86,51 @@ Regions included:
 - Platform and genre interactions significantly impact sales performance
 - A small number of publishers dominate global revenue
 - Success depends on the alignment of multiple factors rather than a single variable
+
+---
+
+## Visualizations Included
+
+- Correlation Heatmaps
+- Sales Distribution Plots
+- Platform Market Share Trends
+- Genre Comparison Charts
+- Regional Analysis Dashboards
+- Publisher Concentration Analysis
+
+---
+
+## Tableau Dashboard
+
+Tableau Public dashboard link
+
+Example:
+
+```text
+[https://public.tableau.com/views/your-dashboard-link](https://public.tableau.com/views/GlobalVideoGameSalesAnalysis_17792845537000/Dashboard4?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+```
+
+---
+
+## Project Report
+
+The detailed project report is available in:
+
+```text
+Project Report.pdf
+```
+
+---
+
+## Team Members
+
+- Saachi Garg
+- Anusha Singh
+- Jay Patel
+- Keshav Gangwani
+
+---
+
+## Conclusion
+
+This project demonstrates how interactive visualization and data-driven storytelling can uncover meaningful patterns in the gaming industry. The findings highlight the importance of regional alignment, platform strategy, and publisher dynamics in determining commercial success.
