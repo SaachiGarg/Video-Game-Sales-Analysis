@@ -39,3 +39,50 @@ Regions included:
 
 ---
 
+## Tools and Technologies
+
+- Tableau
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+
+---
+
+## Key Analysis Areas
+
+### 1. Platform Dominance and Sales Trends
+
+- Platform-wise sales distribution
+- Platform lifecycle analysis
+- Genre-platform interactions
+
+### 2. Regional Market Preferences
+
+- Genre popularity across regions
+- Regional divergence analysis
+- Cross-regional appeal of genres
+
+### 3. Japan as an Independent Market
+
+- Japan vs Global sales comparison
+- Regional outlier analysis
+- Publisher origin influence
+
+### 4. Winner-Takes-All Industry Structure
+
+- Publisher revenue concentration
+- Market dominance analysis
+- Portfolio vs blockbuster strategy
+
+---
+
+## Key Insights
+
+- Global success is primarily driven by North American and European markets
+- Japan behaves as a distinct gaming ecosystem with unique preferences
+- Platform and genre interactions significantly impact sales performance
+- A small number of publishers dominate global revenue
+- Success depends on the alignment of multiple factors rather than a single variable
