@@ -104,8 +104,6 @@ Regions included:
 
 Tableau Public dashboard link
 
-Example:
-
 ```text
 [https://public.tableau.com/views/your-dashboard-link](https://public.tableau.com/views/GlobalVideoGameSalesAnalysis_17792845537000/Dashboard4?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ```
