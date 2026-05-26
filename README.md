@@ -39,6 +39,78 @@ Regions included:
 
 ---
 
+## Calculated Fields
+
+The following calculated fields were created in Tableau to support regional and publisher-level analysis.
+
+### Publisher Type
+
+Classifies publishers as Japanese or Foreign publishers.
+
+```sql
+IF [Publisher] = "Nintendo"
+OR [Publisher] = "Konami Digital Entertainment"
+OR [Publisher] = "Capcom"
+OR [Publisher] = "Square Enix"
+THEN "Japanese Publisher"
+ELSE "Foreign Publisher"
+END
+```
+
+---
+
+### Difference
+
+Measures the relative sales difference between Japan and North America.
+
+```sql
+(SUM([JP_Sales]) - SUM([NA_Sales])) / SUM([Global_Sales])
+```
+
+---
+
+### Favour
+
+Categorizes whether a game or genre is more favored in Japan or North America.
+
+```sql
+IF [Difference] > 0 THEN "JP Favored"
+ELSE "NA Favored"
+END
+```
+
+---
+
+### JP Share
+
+Calculates Japan's contribution to global sales.
+
+```sql
+SUM([JP_Sales]) / SUM([Global_Sales])
+```
+
+---
+
+### EU Share
+
+Calculates Europe's contribution to global sales.
+
+```sql
+SUM([EU_Sales]) / SUM([Global_Sales])
+```
+
+---
+
+### NA Share
+
+Calculates North America's contribution to global sales.
+
+```sql
+SUM([NA_Sales]) / SUM([Global_Sales])
+```
+
+---
+
 ## Tools and Technologies
 
 - Tableau
